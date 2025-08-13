@@ -1,0 +1,20 @@
+Fitur,Tipe,Deskripsi
+churn,Biner,"Label churn (1: keluar, 0: tetap). (Label Prediksi)"
+employee_id,Kategorikal,ID unik karyawan.
+gender,Kategorikal,Jenis kelamin karyawan (Male/Female).
+education,Kategorikal,"Tingkat pendidikan terakhir (High School, Diploma, Bachelor)."
+job_satisfaction,Kategorikal,Tingkat kepuasan kerja (skala 1–4).
+work_location,Kategorikal,Lokasi kerja utama (Urban/Suburban/Rural).
+marital_status,Kategorikal,Status pernikahan (Single/Married).
+churn_period,Kategorikal,Periode kapan churn terjadi (jika churn) atau “Stayed”.
+age,Numerikal,Usia karyawan (dalam tahun).
+experience_years,Numerikal,Total tahun pengalaman kerja sebelum bergabung.
+monthly_target,Numerikal,Target kerja bulanan yang ditetapkan untuk karyawan.
+target_achievement,Numerikal,Rasio pencapaian target terhadap target bulanan (dalam persentase desimal).
+working_hours_per_week,Numerikal,Rata-rata jam kerja per minggu.
+overtime_hours_per_week,Numerikal,Rata-rata jam lembur per minggu.
+salary,Numerikal,Gaji bulanan karyawan (dalam rupiah).
+commission_rate,Numerikal,Persentase komisi berdasarkan performa.
+manager_support_score,Numerikal,Penilaian dukungan dari manajer (skala 1–4).
+company_tenure_years,Numerikal,Lama masa kerja di perusahaan saat ini (dalam tahun).
+distance_to_office_km,Numerikal,Jarak dari rumah ke kantor (dalam kilometer).
