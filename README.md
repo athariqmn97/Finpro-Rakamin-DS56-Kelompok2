@@ -12,7 +12,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployment-red?logo=streamlit)
 ![XGBoost](https://img.shields.io/badge/XGBoost-GradientBoosting-green)
 ![CatBoost](https://img.shields.io/badge/CatBoost-Boosting-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -21,9 +20,9 @@ Project ini merupakan Final Project dari **Rakamin Data Science Bootcamp Batch 5
 Tujuan proyek ini adalah **memprediksi churn (resign) karyawan** menggunakan beberapa algoritma machine learning dan membuat **Rapid Web Apps prototyping** yang interaktif.  
 
 👉 Dengan model ini, perusahaan dapat:
-- Mengidentifikasi potensi churn karyawan lebih awal.  
-- Menjalankan simulasi pengurangan churn.  
-- Mengestimasi potensi **penghematan biaya** akibat churn.  
+- ✅ Mengidentifikasi potensi churn karyawan lebih awal.  
+- ✅ Menjalankan simulasi pengurangan churn.  
+- ✅ Mengestimasi potensi **penghematan biaya** akibat churn.  
 
 ---
 
