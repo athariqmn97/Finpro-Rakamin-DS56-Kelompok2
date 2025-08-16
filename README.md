@@ -1,10 +1,9 @@
 # Rakamin Final Project - Batch 56
 ## Anggota
-- Dadin Tajudin (Project Manager)
-- Athariq Marsha Nugraha (Data Engineer)
-- Nada Paradita (Data Scientist)
-- Nida Febiana (Business & Data Analyst)
-
+- 👨‍💼 Project Manager         → Dadin Tajudin
+- 🛠️ Data Engineer           → Athariq Marsha Nugraha
+- 🧑‍🔬 Data Scientist          → Nada Paradita
+- 📊 Business & Data Analyst → Nida Febiana
 
 # 🚀 Employee Churn Prediction - Rakamin Finpro DS56 Kelompok 2
 
