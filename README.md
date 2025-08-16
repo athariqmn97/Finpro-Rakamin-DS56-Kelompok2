@@ -41,9 +41,9 @@ Setiap model dilakukan **hyperparameter tuning** untuk hasil yang optimal.
 ## 📊 Hasil & Output
 ### Model terbaik ditentukan dari evaluasi metrik (Recall, F2-score, ROC-AUC).
 ### Aplikasi web menyediakan:
-- Pemilihan algoritma untuk prediksi churn.
-- Simulasi churn karyawan baru.
-- Estimasi potensi pengurangan biaya akibat churn.
-- Analisa data karyawan dalam bentuk visualisasi.
+- 🤖 Pemilihan algoritma untuk prediksi churn..
+- 🧑‍💼 Simulasi churn karyawan baru.
+- 💸 Estimasi potensi **pengurangan biaya** akibat churn.
+- 📈 Analisa data karyawan dalam bentuk visualisasi.
 ---
 
