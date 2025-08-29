@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load model
-model = joblib.load("best_model.joblib")
+model = joblib.load("best_models.joblib")
 
 # Home Page
 def home():
