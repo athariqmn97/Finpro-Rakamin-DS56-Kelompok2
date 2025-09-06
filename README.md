@@ -46,3 +46,62 @@ Setiap model dilakukan **hyperparameter tuning** untuk hasil yang optimal.
 - 📈 Analisa data karyawan dalam bentuk visualisasi.
 ---
 
+## Employee Churn Prediction App
+Aplikasi ini adalah dashboard interaktif berbasis Streamlit untuk melakukan analisis data dan prediksi churn karyawan. Aplikasi ini mencakup fitur EDA (Exploratory Data Analysis), prediksi perorangan, prediksi batch, dan analisis penghematan biaya.
+
+### 📁 Struktur Folder
+```
+project-folder/
+├── app.py
+├── eda_module.py
+├── utils.py
+├── employee_churn_prediction_updated.csv
+├── requirements.txt
+└── ...
+```
+---
+### ⚙️ Instalasi
+1. **Clone repositori atau salin file ke folder lokal**
+2. **Aktifkan virtual environment (opsional tapi disarankan)**
+3. **Install dependensi**
+
+```bash
+pip install -r requirements.txt
+```
+Jika tidak ada `requirements.txt`, install manual:
+```bash
+pip install streamlit pandas scikit-learn matplotlib seaborn
+```
+---
+
+### 🚀 Menjalankan Aplikasi
+
+```bash
+streamlit run app.py
+```
+---
+### 🧭 Navigasi Aplikasi
+Gunakan sidebar di sebelah kiri untuk memilih halaman:
+
+#### 1. 📊 Dashboard (EDA)
+- Menampilkan ringkasan dataset
+- Visualisasi missing values, distribusi target, fitur numerik & kategorikal
+- Korelasi antar fitur numerik
+
+#### 2. 👤 Prediksi Perorangan
+- Masukkan data karyawan secara manual
+- Dapatkan prediksi churn dan estimasi penghematan jika churn dicegah
+
+#### 3. 📂 Prediksi Batch
+- Upload file CSV berisi data karyawan
+- Dapatkan hasil prediksi churn secara massal dan unduh hasilnya
+
+#### 4. 💰 Analisis Penghematan Biaya
+- Simulasikan penghematan biaya berdasarkan efektivitas intervensi dan biaya tindakan
+- Visualisasi kurva net saving terhadap threshold
+
+---
+
+### 📌 Catatan
+- Pastikan file dataset (`employee_churn_prediction_updated.csv`) tersedia di direktori yang sama dengan `app.py`, atau sesuaikan path-nya di sidebar.
+- File `utils.py` dan `eda_module.py` harus tersedia karena berisi fungsi pendukung.
