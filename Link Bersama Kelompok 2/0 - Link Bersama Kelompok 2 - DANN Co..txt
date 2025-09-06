@@ -17,8 +17,16 @@ https://docs.google.com/spreadsheets/d/1guO5ghahKp1o6MVfruPd5r-n3tbxGVyT1W_3HuvB
 Gmeet: https://meet.google.com/ezp-eiuq-otk?authuser=0
 
 ## Google Colab :
-https://colab.research.google.com/drive/1dvVX7XUYGjWSxWfaCpOai4Gmnp9NfriG?usp=sharing
+https://github.com/athariqmn97/Finpro-Rakamin-DS56-Kelompok2/blob/30ce93be75a5544b2ca4e01c697ee4cf64e452b2/Master_Code_Kelompok_2_DANN_Co_.ipynb
 
 ## Google Slide : 
-- Stage 1 : https://docs.google.com/presentation/d/1b_sLtlRDSA0StTN4m7XncXrji46G_cmz84OifPDJzA8/edit?slide=id.p12#slide=id.p12
-- Stage 2 : https://www.canva.com/design/DAGv9rjohP0/8y-RJhrjakvgAdTq94qc-A/view?utm_content=DAGv9rjohP0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf1d3a47c68
+- Stage 1 : 
+https://docs.google.com/presentation/d/1b_sLtlRDSA0StTN4m7XncXrji46G_cmz84OifPDJzA8/edit?slide=id.p12#slide=id.p12
+- Stage 2 : 
+https://www.canva.com/design/DAGv9rjohP0/8y-RJhrjakvgAdTq94qc-A/view?utm_content=DAGv9rjohP0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf1d3a47c68
+- Stage 3 : 
+https://www.canva.com/design/DAGv9rjohP0/8y-RJhrjakvgAdTq94qc-A/view?utm_content=DAGv9rjohP0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf1d3a47c68
+- Stage 4 : 
+https://www.canva.com/design/DAGxF5d1EC4/vdv-ltoX-B0Y-7w_CQ-F_w/view?utm_content=DAGxF5d1EC4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha2930d7468
+- Final Presentation : 
+https://www.canva.com/design/DAGx5ys6PSA/HdYMhH0SdwRm9z8ZVq_5pQ/view?utm_content=DAGx5ys6PSA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd1ddee843f
